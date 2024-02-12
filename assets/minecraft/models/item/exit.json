@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/exit",
+		"particle": "item/exit"
+	},
+	"elements": [
+		{
+			"name": "exit_0",
+			"from": [0, 8.66667, 0],
+			"to": [16, 16, 0.33333],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"east": {"uv": [15.66667, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0.33333, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 0.72727], "texture": "#1"},
+				"down": {"uv": [0, 15.27273, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "exit",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

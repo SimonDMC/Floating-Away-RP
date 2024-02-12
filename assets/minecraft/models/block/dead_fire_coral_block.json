@@ -1,0 +1,6 @@
+{
+	"parent": "block/background",
+	"textures": {
+		"texture": "block/sky"
+	}
+}

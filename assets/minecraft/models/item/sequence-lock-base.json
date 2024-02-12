@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "item/sequence-lock-base-texture",
+		"particle": "item/sequence-lock-base-texture"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 13],
+			"to": [13, 10, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 5, 5], "texture": "#1"},
+				"east": {"uv": [5, 0, 6, 5], "texture": "#1"},
+				"south": {"uv": [0, 5, 5, 10], "texture": "#1"},
+				"west": {"uv": [5, 5, 6, 10], "texture": "#1"},
+				"up": {"uv": [11, 1, 6, 0], "texture": "#1"},
+				"down": {"uv": [11, 1, 6, 2], "texture": "#1"}
+			}
+		}
+	]
+}

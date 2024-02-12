@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/elevator",
+		"particle": "item/elevator"
+	},
+	"elements": [
+		{
+			"name": "elevator_0",
+			"from": [0, 7.11111, 0],
+			"to": [16, 16, 0.35556],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [15.64444, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.35556, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0.64], "texture": "#0"},
+				"down": {"uv": [0, 15.36, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "elevator",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

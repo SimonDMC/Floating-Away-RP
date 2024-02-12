@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+	    "layer0": "item/kelp"
+    },
+    "overrides": [
+	    { "predicate": { "custom_model_data": 1}, "model": "item/tech-base" },
+	    { "predicate": { "custom_model_data": 2}, "model": "item/tech-chip" },
+	    { "predicate": { "custom_model_data": 3}, "model": "item/tech-merged" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/exit" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/elevator" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/keycard" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/combination-lock" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/keycard-on" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/sequence-lock-base" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/sequence-lock-button" }
+    ]
+}
