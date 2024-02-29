@@ -6,6 +6,20 @@
 			"ascent": 150,
 			"height": 300,
 			"chars": ["\u2304"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:empty.png",
+			"ascent": 0,
+			"height": 1,
+			"chars": ["\u2305"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:icon.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\u2306"]
 		}
 	]
 }
