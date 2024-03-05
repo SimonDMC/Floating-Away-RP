@@ -1,0 +1,14 @@
+{
+	"characters.interview": {
+		"sounds": ["characters/interview"]
+	},
+	"characters.follow-me": {
+		"sounds": ["characters/follow-me"]
+	},
+	"characters.test-run": {
+		"sounds": ["characters/test-run"]
+	},
+	"characters.nice-job": {
+		"sounds": ["characters/nice-job"]
+	}
+}

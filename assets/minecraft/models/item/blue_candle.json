@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+	    "layer0": "item/blue_candle"
+    },
+    "overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/character/employer-still" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/character/employer-sitting" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/character/employer-sitting-cheer" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/character/employer-sitting-wave" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/character/employer-sitting-point" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/character/employer-sitting-neutral" }
+    ]
+}
