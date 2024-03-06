@@ -9,6 +9,12 @@
 		{ "predicate": { "custom_model_data": 3}, "model": "item/character/employer-sitting-cheer" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/character/employer-sitting-wave" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/character/employer-sitting-point" },
-		{ "predicate": { "custom_model_data": 6}, "model": "item/character/employer-sitting-neutral" }
+		{ "predicate": { "custom_model_data": 6}, "model": "item/character/employer-sitting-neutral" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/character/employer-walk-left-partial" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/character/employer-walk-left-full" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/character/employer-walk-right-partial" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/character/employer-walk-right-full" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/character/employer-still-hold" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/character/employer-still-point" }
     ]
 }
