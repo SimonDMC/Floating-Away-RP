@@ -10,5 +10,11 @@
 	},
 	"characters.nice-job": {
 		"sounds": ["characters/nice-job"]
+	},
+	"characters.presentation": {
+		"sounds": ["characters/presentation"]
+	},
+	"characters.security": {
+		"sounds": ["characters/security"]
 	}
 }
