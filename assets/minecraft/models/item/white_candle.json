@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+	    "layer0": "item/white_candle"
+    },
+    "overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/character/boss-still" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/character/boss-walk-left-partial" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/character/boss-walk-left-full" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/character/boss-walk-right-partial" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/character/boss-walk-right-full" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/character/boss-still-hold" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/character/boss-still-look" }
+    ]
+}

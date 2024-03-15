@@ -16,5 +16,11 @@
 	},
 	"characters.security": {
 		"sounds": ["characters/security"]
+	},
+	"sfx.audience": {
+		"sounds": ["sfx/audience"]
+	},
+	"sfx.audience-fadein": {
+		"sounds": ["sfx/audience-fadein"]
 	}
 }
