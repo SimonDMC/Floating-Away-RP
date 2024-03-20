@@ -22,5 +22,20 @@
 	},
 	"sfx.audience-fadein": {
 		"sounds": ["sfx/audience-fadein"]
+	},
+	"music.decommissioned": {
+		"sounds": ["music/decommissioned"]
+	},
+	"music.decommissioned": {
+		"sounds": ["music/decommissioned-slowing"]
+	},
+	"music.decommissioned": {
+		"sounds": ["music/decommissioned-slow"]
+	},
+	"music.decommissioned": {
+		"sounds": ["music/decommissioned-speeding"]
+	},
+	"music.prechase": {
+		"sounds": ["music/prechase"]
 	}
 }
