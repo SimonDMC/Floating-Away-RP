@@ -26,16 +26,19 @@
 	"music.decommissioned": {
 		"sounds": ["music/decommissioned"]
 	},
-	"music.decommissioned": {
+	"music.decommissioned-slowing": {
 		"sounds": ["music/decommissioned-slowing"]
 	},
-	"music.decommissioned": {
+	"music.decommissioned-slow": {
 		"sounds": ["music/decommissioned-slow"]
 	},
-	"music.decommissioned": {
+	"music.decommissioned-speeding": {
 		"sounds": ["music/decommissioned-speeding"]
 	},
 	"music.prechase": {
 		"sounds": ["music/prechase"]
+	},
+	"music.office": {
+		"sounds": ["music/office"]
 	}
 }
