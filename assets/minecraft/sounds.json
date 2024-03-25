@@ -23,22 +23,25 @@
 	"sfx.audience-fadein": {
 		"sounds": ["sfx/audience-fadein"]
 	},
-	"music.decommissioned": {
-		"sounds": ["music/decommissioned"]
+	"music.welcome-to-folio": {
+		"sounds": ["music/welcome-to-folio"]
 	},
-	"music.decommissioned-slowing": {
-		"sounds": ["music/decommissioned-slowing"]
+	"music.ground-level": {
+		"sounds": ["music/ground-level"]
 	},
-	"music.decommissioned-slow": {
-		"sounds": ["music/decommissioned-slow"]
+	"music.out-of-order": {
+		"sounds": ["music/out-of-order"]
 	},
-	"music.decommissioned-speeding": {
-		"sounds": ["music/decommissioned-speeding"]
+	"music.out-of-order-slowing": {
+		"sounds": ["music/out-of-order-slowing"]
 	},
-	"music.prechase": {
-		"sounds": ["music/prechase"]
+	"music.out-of-order-slow": {
+		"sounds": ["music/out-of-order-slow"]
 	},
-	"music.office": {
-		"sounds": ["music/office"]
+	"music.out-of-order-speeding": {
+		"sounds": ["music/out-of-order-speeding"]
+	},
+	"music.sneaking-around": {
+		"sounds": ["music/sneaking-around"]
 	}
 }
