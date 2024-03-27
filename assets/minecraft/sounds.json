@@ -1,47 +1,130 @@
 {
 	"characters.interview": {
-		"sounds": ["characters/interview"]
+		"sounds": [
+			{
+				"name": "characters/interview",
+				"preload": true
+			}
+		]
 	},
 	"characters.follow-me": {
-		"sounds": ["characters/follow-me"]
+		"sounds": [
+			{
+				"name": "characters/follow-me",
+				"preload": true
+			}
+		]
 	},
 	"characters.test-run": {
-		"sounds": ["characters/test-run"]
+		"sounds": [
+			{
+				"name": "characters/test-run",
+				"preload": true
+			}
+		]
 	},
 	"characters.nice-job": {
-		"sounds": ["characters/nice-job"]
+		"sounds": [
+			{
+				"name": "characters/nice-job",
+				"preload": true
+			}
+		]
 	},
 	"characters.presentation": {
-		"sounds": ["characters/presentation"]
+		"sounds": [
+			{
+				"name": "characters/presentation",
+				"preload": true
+			}
+		]
 	},
 	"characters.security": {
-		"sounds": ["characters/security"]
+		"sounds": [
+			{
+				"name": "characters/security",
+				"preload": true
+			}
+		]
 	},
 	"sfx.audience": {
-		"sounds": ["sfx/audience"]
+		"sounds": [
+			{
+				"name": "sfx/audience",
+				"preload": true
+			}
+		]
 	},
 	"sfx.audience-fadein": {
-		"sounds": ["sfx/audience-fadein"]
+		"sounds": [
+			{
+				"name": "sfx/audience-fadein",
+				"preload": true
+			}
+		]
 	},
 	"music.welcome-to-folio": {
-		"sounds": ["music/welcome-to-folio"]
+		"sounds": [
+			{
+				"name": "music/welcome-to-folio",
+				"preload": true
+			}
+		]
+	},
+	"music.stronger-than-gravity": {
+		"sounds": [
+			{
+				"name": "music/stronger-than-gravity",
+				"preload": true
+			}
+		]
 	},
 	"music.ground-level": {
-		"sounds": ["music/ground-level"]
+		"sounds": [
+			{
+				"name": "music/ground-level",
+				"preload": true
+			}
+		]
 	},
 	"music.out-of-order": {
-		"sounds": ["music/out-of-order"]
+		"sounds": [
+			{
+				"name": "music/out-of-order",
+				"preload": true
+			}
+		]
 	},
 	"music.out-of-order-slowing": {
-		"sounds": ["music/out-of-order-slowing"]
+		"sounds": [
+			{
+				"name": "music/out-of-order-slowing",
+				"preload": true
+			}
+		]
 	},
 	"music.out-of-order-slow": {
-		"sounds": ["music/out-of-order-slow"]
+		"sounds": [
+			{
+				"name": "music/out-of-order-slow",
+				"preload": true
+			}
+		]
 	},
 	"music.out-of-order-speeding": {
-		"sounds": ["music/out-of-order-speeding"]
+		"sounds": [
+			{
+				"name": "music/out-of-order-speeding",
+				"preload": true
+			}
+		]
 	},
 	"music.sneaking-around": {
-		"sounds": ["music/sneaking-around"]
+		"sounds": [
+			{
+				"name": "music/sneaking-around",
+				"preload": true
+			}
+		]
 	}
 }
