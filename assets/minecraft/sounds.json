@@ -126,5 +126,69 @@
 				"preload": true
 			}
 		]
+	},
+	"music.floating-away-start": {
+		"sounds": [
+			{
+				"name": "music/floating-away-start",
+				"preload": true
+			}
+		]
+	},
+	"music.floating-away-hall": {
+		"sounds": [
+			{
+				"name": "music/floating-away-hall",
+				"preload": true
+			}
+		]
+	},
+	"music.floating-away-vents": {
+		"sounds": [
+			{
+				"name": "music/floating-away-vents",
+				"preload": true
+			}
+		]
+	},
+	"music.floating-away-corridors-1": {
+		"sounds": [
+			{
+				"name": "music/floating-away-corridors-1",
+				"preload": true
+			}
+		]
+	},
+	"music.floating-away-underground": {
+		"sounds": [
+			{
+				"name": "music/floating-away-underground",
+				"preload": true
+			}
+		]
+	},
+	"music.floating-away-corridor-3": {
+		"sounds": [
+			{
+				"name": "music/floating-away-corridor-3",
+				"preload": true
+			}
+		]
+	},
+	"music.floating-away-quartz": {
+		"sounds": [
+			{
+				"name": "music/floating-away-quartz",
+				"preload": true
+			}
+		]
+	},
+	"music.floating-away-ending": {
+		"sounds": [
+			{
+				"name": "music/floating-away-ending",
+				"preload": true
+			}
+		]
 	}
 }
