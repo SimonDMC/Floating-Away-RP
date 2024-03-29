@@ -183,6 +183,22 @@
 			}
 		]
 	},
+	"music.floating-away-quartz-slowing": {
+		"sounds": [
+			{
+				"name": "music/floating-away-quartz-slowing",
+				"preload": true
+			}
+		]
+	},
+	"music.floating-away-quartz-speeding": {
+		"sounds": [
+			{
+				"name": "music/floating-away-quartz-speeding",
+				"preload": true
+			}
+		]
+	},
 	"music.floating-away-ending": {
 		"sounds": [
 			{
