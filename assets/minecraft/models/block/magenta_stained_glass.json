@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/empty",
+    "east": "minecraft:block/crack_0",
+    "north": "minecraft:block/crack_1",
+    "particle": "minecraft:block/empty",
+    "south": "minecraft:block/empty",
+    "up": "minecraft:block/empty",
+    "west": "minecraft:block/empty"
+  }
+}
